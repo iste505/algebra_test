@@ -1,0 +1,2 @@
+/node_modules 
+# mapa node_modules je ignorirana, ali pazi da ne ignoriras package.json
